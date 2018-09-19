@@ -1,0 +1,17 @@
+Base de comparação
+0 - MCL
+
+Sequestro
+1 - A-MCL
+2 - Sensor Resetting - MCL
+3 - Windy Motion
+
+Variar Partículas
+4 - KLD-MCL
+5 - Standard Deviation Method
+6 - MCL with mean particles - Precisa descobrir qual a quantidade
+
+Outros
+7 - Thrun's Implementation (A-KLD-SR-MCL)
+8 - My Framework without VIP
+9 - My Complete FrameWork

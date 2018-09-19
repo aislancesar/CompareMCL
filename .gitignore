@@ -1,0 +1,9 @@
+*.pyc
+
+/Document/*
+!/Document/*.tex
+!/Document/*.bib
+!/Document/*.cls
+!/Document/fig/*
+!/Document/txt/*
+\.directory
